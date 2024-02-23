@@ -45,7 +45,7 @@
   ],
   "navigation": [
     {
-      "group": "Welcome",
+      "group": "Landing",
       "pages": [
         "welcome"
       ]
