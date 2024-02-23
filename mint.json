@@ -25,12 +25,6 @@
     "name": "Member Portal",
     "url": "https://community.foreverrail.com/memberportal/"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Guide Hub",
