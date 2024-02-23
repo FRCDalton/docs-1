@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Contact guide staff",
+      "url": "guides@foreverrail.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Member Portal",
+    "url": "https://community.foreverrail.com/memberportal/"
   },
   "tabs": [
     {
@@ -33,28 +33,25 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Guide Hub",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://guides.foreverrail.com/"
     },
     {
       "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "icon": "user-group",
+      "url": "https://community.foreverrail.com/"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Welcome",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development",
         "welcome"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Southeast Division",
       "pages": [
         "essentials/markdown",
         "essentials/code",
