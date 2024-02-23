@@ -5,7 +5,7 @@
     "dark": "/logo/FR SVG (1).svg",
     "light": "/logo/FR SVG (2).svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "logo/frc-favicon",
   "colors": {
     "primary": "#FC8300",
     "light": "#FC8F19",
