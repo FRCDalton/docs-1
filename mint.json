@@ -5,11 +5,11 @@
     "dark": "/logo/FR SVG (1).svg",
     "light": "/logo/FR SVG (2).svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/frc-favicon",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#FC8300",
+    "light": "#FC8F19",
+    "dark": "#00144F",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
@@ -40,13 +40,8 @@
     {
       "name": "Community",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://community.foreverrail.com/"
     },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
   ],
   "navigation": [
     {
