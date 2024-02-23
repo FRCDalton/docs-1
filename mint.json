@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Guide Hub",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/FR SVG (1).svg",
+    "light": "/logo/FR SVG (2).svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
