@@ -42,6 +42,11 @@
       "icon": "slack",
       "url": "https://community.foreverrail.com/"
     },
+    {
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://mintlify.com/blog"
+    }
   ],
   "navigation": [
     {
