@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Contact guide staff",
-      "url": "guides@foreverrail.com"
+      "url": "mailto:guides@foreverrail.com"
     }
   ],
   "topbarCtaButton": {
