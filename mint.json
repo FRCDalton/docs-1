@@ -25,6 +25,9 @@
     "name": "Member Portal",
     "url": "https://community.foreverrail.com/memberportal/"
   },
+    "feedback": {
+    "raiseIssue": true,
+  },
   "anchors": [
     {
       "name": "Community",
