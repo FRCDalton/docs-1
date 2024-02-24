@@ -27,8 +27,8 @@
     "url": "https://community.foreverrail.com/memberportal/"
   },
   "topAnchor": {
-    "name": "Documentation",
-    "icon": "book-open"
+    "name": "Guides",
+    "icon": "book"
   },  
   "feedback": {
     "raiseIssue": true
