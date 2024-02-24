@@ -47,7 +47,7 @@
     {
       "group": "Landing",
       "pages": [
-        "welcome"
+        "landing/welcome"
       ]
     },
     {
