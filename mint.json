@@ -26,7 +26,11 @@
     "name": "Member Portal",
     "url": "https://community.foreverrail.com/memberportal/"
   },
-    "feedback": {
+  "topAnchor": {
+    "name": "Documentation",
+    "icon": "book-open"
+  },  
+  "feedback": {
     "raiseIssue": true
   },
   "search": {
