@@ -1,0 +1,47 @@
+---
+title: "Southeast Y Symbols"
+sidebarTitle: "Southeast Y Symbols"
+---
+
+---
+title: "Southeast Y Symbols"
+icon: "flag"
+iconType: "solid"
+---
+
+### ⏰ 1st Shift 0800-1400
+
+- Y190 - Industry Job (Pearson)
+- Y191 - B Tower (Trim)
+- Y192 - B Tower (Trim)
+- Y193 - B Tower (Trim)
+- Y196 - A Tower (Hump)
+- Y197 - A Tower (Hump)
+
+### ⏰ 2nd shift 1400-0000
+
+- Y290 - Industry Job (Pearson)
+- Y291 - B Tower (Trim)
+- Y292 - B Tower (Trim)
+- Y293 - B Tower (Trim)
+- Y296 - A Tower (Hump)
+- Y297 - A Tower (Hump)
+
+### ⏰ 3rd shift 0000-0800
+
+- Y390 - Industry Job (Pearson)
+- Y391 - B Tower (Trim)
+- Y392 - B Tower (Trim)
+- Y393 - B Tower (Trim)
+- Y396 - A Tower (Hump)
+- Y397 - A Tower (Hump)
+
+## Adjusting Locomotive Train Symbols in Waycross Based on Shifts
+
+For efficient and synchronized operations across different time zones, it is essential when operating yard power in Waycross to update the train symbols according to the specific symbols listed. To ensure seamless communication and scheduling, align all local times with Eastern Standard Time (EST), which is UTC-5. This practice standardizes time references for all personnel involved in train scheduling and operations, enhancing overall coordination.
+
+<Note>To modify the train symbol, adjust only the numerical component. All other elements should remain unchanged.</Note>
+
+<Frame caption="As indicated by the red arrow, this is the location to update the train symbol in order to represent the shift being operated by you or other personnel.">
+  <img src="images/Waycross_Y_Guide_1.jpg" />
+</Frame>
