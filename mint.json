@@ -27,11 +27,6 @@
   },
   "anchors": [
     {
-      "name": "Guide Hub",
-      "icon": "book-open-cover",
-      "url": "https://guides.foreverrail.com/"
-    },
-    {
       "name": "Community",
       "icon": "user-group",
       "url": "https://community.foreverrail.com/"
