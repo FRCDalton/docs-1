@@ -32,6 +32,13 @@
   "search": {
     "prompt": "🚂 Search for guides, divisions, or trains..."
   },
+  "topAnchor": [
+    {
+      "name": "Community",
+      "icon": "user-group",
+      "url": "https://community.foreverrail.com/"
+    }
+  ],
   "anchors": [
     {
       "name": "Community",
