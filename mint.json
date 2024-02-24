@@ -18,7 +18,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Contact guide staff",
+      "name": "Contact Us",
       "url": "mailto:guides@foreverrail.com"
     }
   ],
@@ -28,7 +28,7 @@
   },
   "topAnchor": {
     "name": "Guides",
-    "icon": "book"
+    "icon": "compass"
   },  
   "feedback": {
     "raiseIssue": true
