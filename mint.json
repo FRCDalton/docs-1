@@ -59,23 +59,19 @@
     {
       "group": "Southwest Division",
       "pages": [
-        "api-reference/introduction"
+        ""
       ]
     },
     {
       "group": "Northwest Division",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        ""
       ]
     },
     {
       "group": "Northeast Division",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        ""
       ]
     }
   ],
