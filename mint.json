@@ -28,6 +28,9 @@
     "feedback": {
     "raiseIssue": true
   },
+  "search": {
+    "prompt": "🚂 Search for guides, divisions, or trains..."
+  },
   "anchors": [
     {
       "name": "Community",
