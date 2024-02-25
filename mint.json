@@ -41,6 +41,11 @@
       "name": "Community",
       "icon": "user-group",
       "url": "https://community.foreverrail.com/"
+    },
+    {
+      "name": "Changelog",
+      "icon": "arrow-progress",
+      "url": "https://foreverrailsguidehub.featurebase.app/changelog"
     }
   ],
   "navigation": [
