@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Guide Hub",
   "logo": {
-    "dark": "/logo/FR SVG (1).svg",
-    "light": "/logo/FR SVG (2).svg",
+    "dark": "/logo/FRC-Guides-Logo.svg",
+    "light": "/logo/FRC-Guides-Logo.svg",
     "href": "https://guides.foreverrail.com/"
   },
   "favicon": "logo/frc-favicon.png",
