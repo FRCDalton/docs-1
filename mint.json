@@ -58,9 +58,7 @@
     {
       "group": "Southeast Division",
       "pages": [
-        "southeast/southeast-overview"
-      ]
-    },
+        "southeast/southeast-overview",
       {
         "group": "Yards",
         "pages": [
@@ -73,6 +71,8 @@
           "southeast/locals/L729",
           "southeast/locals/L743"
         ]
+      }
+    ]
       },
     {
       "group": "Southwest Division",
