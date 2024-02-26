@@ -45,7 +45,7 @@
     {
       "name": "Changelog",
       "icon": "arrow-progress",
-      "url": "https://forever-rail-community-operations.productlane.com/roadmap"
+      "url": "https://forever-rail-community-operations.productlane.com/changelog"
     }
   ],
   "navigation": [
@@ -58,10 +58,22 @@
     {
       "group": "Southeast Division",
       "pages": [
-        "southeast/waycross-y-symbols",
-        "southeast/locals/L729"
+        "southeast/southeast-overview"
       ]
     },
+      {
+        "group": "Yards",
+        "pages": [
+          "yards"
+        ]
+      },
+      {
+        "group": "Locals",
+        "pages": [
+          "locals/L729",
+          "locals/L743"
+        ]
+      },
     {
       "group": "Southwest Division",
       "pages": [
