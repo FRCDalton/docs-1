@@ -53,7 +53,7 @@
       "group": "Landing",
       "pages": [
         "landing/welcome",
-        "landing/guides-creation"
+        "landing/guides"
       ]
     },
     {
