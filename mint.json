@@ -52,7 +52,8 @@
     {
       "group": "Landing",
       "pages": [
-        "landing/welcome"
+        "landing/welcome",
+        "landing/guides-creation"
       ]
     },
     {
@@ -68,8 +69,6 @@
       {
         "group": "Locals",
         "pages": [
-          "southeast/locals/L729",
-          "southeast/locals/L743",
           "southeast/locals/L711"
         ]
       }
