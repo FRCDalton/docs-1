@@ -60,6 +60,12 @@
       "group": "Southeast Division",
       "pages": [
         "southeast/southeast-overview",
+        {
+          "group": "Division Changelogs",
+          "pages": [
+            "southeast/changelogs"
+          ]
+        },
       {
         "group": "Yards",
         "pages": [
