@@ -60,8 +60,9 @@
       "group": "Southeast Division",
       "pages": [
         "southeast/southeast-overview",
-        
-      {
+        "southeast/southeast-changelog"
+      
+      ,{
         "group": "Yards",
         "pages": [
           "southeast/yards/waycross-y-symbols"
