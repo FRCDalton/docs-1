@@ -61,7 +61,8 @@
       "pages": [
         "southeast/southeast-overview",
         "southeast/southeast-changelog"
-        
+      ]
+    },
       {
         "group": "Yards",
         "pages": [
@@ -73,8 +74,6 @@
         "pages": [
           "southeast/locals/L711"
         ]
-      }
-    ]
       },
     {
       "group": "Southwest Division",
