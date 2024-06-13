@@ -59,7 +59,15 @@
     {
       "group": "Southeast Division",
       "pages": [
-        "southeast/southeast-overview",
+        "southeast/southeast-overview"
+      ]
+    },
+    {
+      "group": "Division Changelogs",
+      "pages": [
+        "southeast/divisionchangelogs/6-12-2024"
+      ]
+    },
       {
         "group": "Yards",
         "pages": [
@@ -71,8 +79,6 @@
         "pages": [
           "southeast/locals/L711"
         ]
-      }
-    ]
       },
     {
       "group": "Southwest Division",
