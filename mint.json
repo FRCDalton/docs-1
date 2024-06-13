@@ -59,10 +59,16 @@
     {
       "group": "Southeast Division",
       "pages": [
-        "southeast/southeast-overview",
-        "southeast/southeast-changelog"
-      
-      ,{
+        "southeast/southeast-overview"
+      ]
+    },
+    {
+      "group": "Division Changelogs",
+      "pages": [
+        "southeast/division-changelogs/waycross-y-symbols"
+      ]
+    },
+      {
         "group": "Yards",
         "pages": [
           "southeast/yards/waycross-y-symbols"
@@ -73,8 +79,6 @@
         "pages": [
           "southeast/locals/L711"
         ]
-      }
-    ]
       },
     {
       "group": "Southwest Division",
