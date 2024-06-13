@@ -59,8 +59,13 @@
     {
       "group": "Southeast Division",
       "pages": [
-        "southeast/southeast-overview",
-        "southeast/southeast-changelog"
+        "southeast/southeast-overview"
+      ]
+    },
+    {
+      "group": "Division Changelogs",
+      "pages": [
+        "southeast/division-changelogs/waycross-y-symbols"
       ]
     },
       {
